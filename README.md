@@ -1,5 +1,5 @@
 ## Hello there!
-I'm Jorge Diaz a KUL student learning how to code in python and SQL. Currently I'm studying an Bachelors of Business Administration and a MBA in Business Information Management. I'm currently learning about data analysis and visualization as well as some computer science concepts. 
+I'm Jorge Diaz a KUL student learning how to code in python and SQL. Currently I'm studying a MBA in Business Information Management. I'm currently learning about data analysis and visualization as well as some computer science concepts. 
 
 <!--
 **isnotgeorge/isnotgeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
